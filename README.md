@@ -40,11 +40,11 @@ I'm Mohraeil Asaad, a Computer Science student from Suez, Egypt, building a care
 | `index.html` | The whole website: layout, styling, content and editor, in one self-contained file |
 | `content.json` | Created when I publish edits from the editor. If it exists, the site shows its content instead of the built-in text |
 
-```
+There is no build step and no server. The page runs entirely in the visitor's browser.
 
 ## Security note
 
-This repo is public because GitHub Pages is free for public repos. It holds no passwords or tokens, only the content that is already on the website. Please don't copy my personal details, logo or text. 
+This repo is public because GitHub Pages is free for public repos. It holds no passwords or tokens, only the content that is already on the website. Please don't copy my personal details, logo or text.
 
 ## Get in touch
 
