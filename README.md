@@ -4,7 +4,7 @@
 
 **The source code of my personal portfolio website.**
 
-[![Live site](https://img.shields.io/badge/Live%20site-mohra--makar.github.io-f7a9d3?style=for-the-badge)](https://mohra-makar.github.io)
+[![Live site](https://img.shields.io/badge/Live%20site-mohra--makar.github.io%2FMohraeil.github.io-f7a9d3?style=for-the-badge)](https://mohra-makar.github.io/Mohraeil.github.io/)
 ![Hosted on](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-a8c9f7?style=for-the-badge)
 ![Built with](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-0a1030?style=for-the-badge)
 
@@ -14,7 +14,7 @@
 
 ## What is this repo?
 
-This repo **is** my portfolio. GitHub Pages serves the files here as the website at **[mohra-makar.github.io](https://mohra-makar.github.io)**.
+This repo **is** my portfolio. GitHub Pages serves the files here as the website at **[mohra-makar.github.io/Mohraeil.github.io](https://mohra-makar.github.io/Mohraeil.github.io/)**.
 
 I'm Mohraeil Asaad, a Computer Science student from Suez, Egypt, building a career in penetration testing. The site shows who I am, what I've done and how to reach me:
 
@@ -40,19 +40,11 @@ I'm Mohraeil Asaad, a Computer Science student from Suez, Egypt, building a care
 | `index.html` | The whole website: layout, styling, content and editor, in one self-contained file |
 | `content.json` | Created when I publish edits from the editor. If it exists, the site shows its content instead of the built-in text |
 
-There is no build step and no server. The page runs entirely in the visitor's browser.
-
-## Run it locally
-
-```bash
-git clone https://github.com/Mohra-Makar/Mohra-Makar.github.io.git
-cd Mohra-Makar.github.io
-# open index.html in your browser
 ```
 
 ## Security note
 
-This repo is public because GitHub Pages is free for public repos. It holds no passwords or tokens, only the content that is already on the website. Please don't copy my personal details, logo or text. The design and code are free to learn from.
+This repo is public because GitHub Pages is free for public repos. It holds no passwords or tokens, only the content that is already on the website. Please don't copy my personal details, logo or text. 
 
 ## Get in touch
 
